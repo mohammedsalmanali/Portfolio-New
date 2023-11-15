@@ -130,7 +130,7 @@ const educationInfo = {
       logo: require("./assets/images/tkm.jpg"),
       subHeader: "Bachelor of Technology in Electronics and Communication Engineering",
       duration: "August 2017 - July 2021",
-      desc: "Studied Electronics and Communication as main discipline amd.",
+      desc: "Studied Electronics and Communication as main discipline and covered the basics of Computer Science and Programming.",
       descBullets: [
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
