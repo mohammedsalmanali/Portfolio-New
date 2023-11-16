@@ -37,9 +37,8 @@ const socialMediaLinks = {
   linkedin: "https://www.linkedin.com/in/mohammedsalmanali/",
   gmail: "salmanmohammed2098@gmail.com",
   leetcode: "https://www.leetcode.com/mohammedsalmanali",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  twitter: "https://www.twitter.com/MohdSalman015",
+  
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
