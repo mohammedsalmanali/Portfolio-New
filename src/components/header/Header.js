@@ -8,8 +8,6 @@ import {
   workExperiences,
   skillsSection,
   openSource,
-  blogSection,
-  talkSection,
   achievementSection
 } from "../../portfolio";
 
@@ -19,8 +17,7 @@ function Header() {
   const viewOpenSource = openSource.display;
   const viewSkills = skillsSection.display;
   const viewAchievement = achievementSection.display;
-  const viewBlog = blogSection.display;
-  const viewTalks = talkSection.display;
+  
 
   return (
     <Headroom>
