@@ -162,28 +162,34 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Software Engineer",
-      company: "Facebook",
-      companylogo: require("./assets/images/facebookLogo.png"),
-      date: "June 2018 – Present",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      role: "Student Mentor",
+      company: "Frontend Freaks",
+      companylogo: require("./assets/images/frontendFreaks.png"),
+      date: "June 2023 – Present",
+      desc: "Working as a mentor for students starting with frontend development.",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Supported individuals through clearing doubts and catering skill acquisition.",
+        "Committed to supporting potential developers and addressing learning gaps.",
+        "Fostered a dynamic environment with knowledge-sharing activities."
       ]
     },
     {
-      role: "Front-End Developer",
-      company: "Quora",
-      companylogo: require("./assets/images/quoraLogo.png"),
-      date: "May 2017 – May 2018",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      role: "Springboard Intern",
+      company: "Infosys",
+      companylogo: require("./assets/images/infosys.png"),
+      date: "Jan 2023 – May 2023",
+      desc: "Performed multiple roles primarily as a UI developer and a Scrum Master for a 6 member team.",
+      descBullets: [
+        "Led an Agile team in delivering an full stack education portal.",
+        "Spearheaded Agile ceremonies including sprint planning, daily standups, story planning, release planning and so on.",
+        "Collaborated with developers resulting in fostering a culture of code quality.",
+    ]
     },
     {
-      role: "Software Engineer Intern",
-      company: "Airbnb",
-      companylogo: require("./assets/images/airbnbLogo.png"),
-      date: "Jan 2015 – Sep 2015",
+      role: "Associate Software Engineer",
+      company: "Virtusa",
+      companylogo: require("./assets/images/virtusa.png"),
+      date: "Dec 2021 – Feb 2023",
       desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
     }
   ]
