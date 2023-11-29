@@ -190,7 +190,12 @@ const workExperiences = {
       company: "Virtusa",
       companylogo: require("./assets/images/virtusa.png"),
       date: "Dec 2021 – Feb 2023",
-      desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      desc: "Started the IT journey as a trainee working on web development.",
+      descBullets: [
+        "Actively participated in daily stand‑up meetings, contributing to sprint planning and continuous integration.",
+        "Delivered a feature‑rich web application React and Node.js.",
+        "Configured and optimized AWS services, resulting in a increase in application scalability.",
+    ]
     }
   ]
 };
