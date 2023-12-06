@@ -225,19 +225,19 @@ const bigProjects = {
       footerLink: [
         {
           name: "Visit Website",
-          url: "https://htl-leonding-project.github.io/franklyn-quarkus/"
+          url: "https://www.htl-leonding.at/"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/infosys.png"),
+      projectName: "Automation System Schedulo for Monthly Schedule",
+      projectDesc: "The project is a web based application that uses Angular as front-end and a database management system as the backend. The project automates the monthly scheduling process and have a central repository for unified view through a portal or standalone plug-in or SharePoint server.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "Visit Github",
+          url: "https://github.com/AeromusGyan/Automation"
         }
       ]
     }
