@@ -48,7 +48,7 @@ function Header() {
           )}
           {viewOpenSource && (
             <li>
-              <a href="projects.js">Projects</a>
+              <a href="src/projects.js">Projects</a>
             </li>
           )}
           {viewAchievement && (
