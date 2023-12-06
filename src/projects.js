@@ -19,148 +19,6 @@ const illustration = {
   animated: true // Set to false to use static SVG
 };
 
-const greeting = {
-  username: "Mohammed Salman Ali",
-  title: "Hi all, I'm Salman",
-  subTitle: emoji(
-    "A passionate Software Developer 💻 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Angular / Nodejs / React Native and some other cool libraries and frameworks."
-  ),
-  resumeLink:
-    "https://drive.google.com/file/d/141iw_eiYGNRvI2xnz-WqCNqdhONuWVN-/view?usp=sharing", // Set to empty to hide the button
-  displayGreeting: true // Set false to hide this section, defaults to true
-};
-
-// Social Media Links
-
-const socialMediaLinks = {
-  github: "https://github.com/mohammedsalmanali",
-  linkedin: "https://www.linkedin.com/in/mohammedsalmanali/",
-  gmail: "salmanmohammed2098@gmail.com",
-  leetcode: "https://www.leetcode.com/mohammedsalmanali",
-  twitter: "https://www.twitter.com/MohdSalman015",
-  
-  // Instagram, Twitter and Kaggle are also supported in the links!
-  // To customize icons and social links, tweak src/components/SocialMedia
-  display: true // Set true to display this section, defaults to false
-};
-
-// Skills Section
-
-const skillsSection = {
-  title: "What I do",
-  subTitle: "FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
-  skills: [
-    emoji(
-      "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
-    ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS"
-    )
-  ],
-
-  /* Make Sure to include correct Font Awesome Classname to view your icon
-https://fontawesome.com/icons?d=gallery */
-
-  softwareSkills: [
-    {
-      skillName: "HTML-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "CSS3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "SASS",
-      fontAwesomeClassname: "fab fa-sass"
-    },
-    {
-      skillName: "JavaScript",
-      fontAwesomeClassname: "fab fa-js"
-    },
-    {
-      skillName: "Reactjs",
-      fontAwesomeClassname: "fab fa-react"
-    },
-    {
-      skillName: "Angular",
-      fontAwesomeClassname: "fab brands fa-angular"
-    },
-    {
-      skillName: "Nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
-    {
-      skillName: "Java",
-      fontAwesomeClassname: "fab fa-java"
-    },
-    {
-      skillName: "Git",
-      fontAwesomeClassname: "fab brands fa-git-alt"
-    },
-    {
-      skillName: "SQL-Database",
-      fontAwesomeClassname: "fas fa-database"
-    },
-    {
-      skillName: "AWS",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
-      skillName: "Firebase",
-      fontAwesomeClassname: "fas fa-fire"
-    },
-    {
-      skillName: "Python",
-      fontAwesomeClassname: "fab fa-python"
-    },
-    {
-      skillName: "Docker",
-      fontAwesomeClassname: "fab fa-docker"
-    }
-  ],
-  display: true // Set false to hide this section, defaults to true
-};
-
-// Education Section
-
-const educationInfo = {
-  display: true, // Set false to hide this section, defaults to true
-  schools: [
-    {
-      schoolName: "TKM College of Engineering",
-      logo: require("./assets/images/tkm.jpg"),
-      subHeader: "Bachelor of Technology in Electronics and Communication Engineering",
-      duration: "August 2017 - July 2021",
-      desc: "Studied Electronics and Communication as main discipline and covered the basics of Computer Science and Programming.",
-      
-    }
-  ]
-};
-
-// Your top 3 proficient stacks/tech experience
-
-const techStack = {
-  viewSkillBars: true, //Set it to true to show Proficiency Section
-  experience: [
-    {
-      Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "60%" //Insert relative proficiency in percentage
-    },
-    {
-      Stack: "Backend",
-      progressPercentage: "60%"
-    },
-    {
-      Stack: "Programming",
-      progressPercentage: "60%"
-    }
-  ],
-  displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
-};
-
-// Work experience section
 
 const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
@@ -215,7 +73,7 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Contributions",
+  title: "Big Projects",
   subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
   projects: [
     {
@@ -309,35 +167,19 @@ const achievementSection = {
 
 
 
-const contactInfo = {
-  title: emoji("Contact Me ☎️"),
-  subtitle:
-    "Discuss a project or just want to say hi? My Inbox is open for all.",
-  email_address: "salmanmohammed2098@gmail.com"
-};
+
 
 // Twitter Section
 
-const twitterDetails = {
-  userName: "twitter", //Replace "twitter" with your twitter username without @
-  display: true // Set true to display this section, defaults to false
-};
+
 
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
 export {
   illustration,
-  greeting,
-  socialMediaLinks,
   splashScreen,
-  skillsSection,
-  educationInfo,
-  techStack,
   workExperiences,
-  openSource,
   bigProjects,
   achievementSection,
-  contactInfo,
-  twitterDetails,
   isHireable
 };
