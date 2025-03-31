@@ -47,10 +47,10 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Student Mentor",
-      company: "Frontend Freaks",
+      role: "Assistant Administrator",
+      company: "DP World",
       companylogo: require("./assets/images/frontendFreaks.png"),
-      date: "June 2023 – Present",
+      date: "Jan 2024 – Present",
       desc: "Working as a mentor for students starting with frontend development.",
       descBullets: [
         "Supported individuals through clearing doubts and catering skill acquisition.",
