@@ -51,7 +51,7 @@ const workExperiences = {
       company: "DP World",
       companylogo: require("./assets/images/frontendFreaks.png"),
       date: "Jan 2024 – Present",
-      desc: "Working as a mentor for students starting with frontend development.",
+      desc: "Working as an Assistant Administrator.",
       descBullets: [
         "Supported individuals through clearing doubts and catering skill acquisition.",
         "Committed to supporting potential developers and addressing learning gaps.",
