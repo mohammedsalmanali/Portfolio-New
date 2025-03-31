@@ -21,7 +21,7 @@ const illustration = {
 
 const greeting = {
   username: "Mohammed Salman Ali",
-  title: "Hi all, I'm Salman",
+  title: "Hello my fellow techies, This is Salman",
   subTitle: emoji(
     "A passionate Software Developer 💻 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Angular / Nodejs / React Native and some other cool libraries and frameworks."
   ),
@@ -48,7 +48,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "A Software Engineer who's exploring different levels in tech field",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
@@ -146,11 +146,11 @@ const techStack = {
   experience: [
     {
       Stack: "Frontend/Design", //Insert stack or technology you have experience in
-      progressPercentage: "60%" //Insert relative proficiency in percentage
+      progressPercentage: "50%" //Insert relative proficiency in percentage
     },
     {
       Stack: "Backend",
-      progressPercentage: "60%"
+      progressPercentage: "40%"
     },
     {
       Stack: "Programming",
@@ -166,10 +166,10 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Student Mentor",
-      company: "Frontend Freaks",
-      companylogo: require("./assets/images/frontendFreaks.png"),
-      date: "June 2023 – Present",
+      role: "Assistant Administrator",
+      company: "DP World",
+      companylogo: require("./assets/images/dpworld.png"),
+      date: "Jan 2024 – Present",
       desc: "Working as a mentor for students starting with frontend development.",
       descBullets: [
         "Supported individuals through clearing doubts and catering skill acquisition.",
