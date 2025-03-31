@@ -22,9 +22,7 @@ const illustration = {
 const greeting = {
   username: "Mohammed Salman Ali",
   title: "Hello my fellow techies, This is Salman",
-  subTitle: emoji(
-    "A passionate Software Developer 💻 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Angular / Nodejs / React Native and some other cool libraries and frameworks."
-  ),
+  subTitle: "A passionate Software Developer 💻 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Angular / Nodejs / React Native and some other cool libraries and frameworks.",
   resumeLink:
     "https://drive.google.com/file/d/141iw_eiYGNRvI2xnz-WqCNqdhONuWVN-/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
@@ -216,7 +214,7 @@ const openSource = {
 
 const bigProjects = {
   title: "Contributions",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  subtitle: "Some Startups And Companies That I Helped To Create Their Tech",
   projects: [
     {
       image: require("./assets/images/htllogo.png"),
