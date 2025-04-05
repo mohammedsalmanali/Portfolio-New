@@ -21,7 +21,7 @@ export default function Achievement() {
                   : "heading achievement-heading"
               }
             >
-              {achievementSection.title}
+              {achievementSection.title}{" "}
             </h1>
             <p
               className={
@@ -30,7 +30,7 @@ export default function Achievement() {
                   : "subTitle achievement-subtitle"
               }
             >
-              {achievementSection.subtitle}
+              {achievementSection.subTitle}
             </p>
           </div>
           <div className="achievement-cards-div">
