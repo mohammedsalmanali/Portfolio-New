@@ -176,7 +176,7 @@ const workExperiences = {
       ]
     },
     {
-      role: "Springboard Intern",
+      role: "Scrum Master",
       company: "Infosys",
       companylogo: require("./assets/images/infosys.png"),
       date: "Jan 2023 – May 2023",
@@ -188,7 +188,7 @@ const workExperiences = {
     ]
     },
     {
-      role: "Associate Software Engineer",
+      role: "Frontend Web Developer",
       company: "Virtusa",
       companylogo: require("./assets/images/virtusa.png"),
       date: "Dec 2021 – Feb 2023",
