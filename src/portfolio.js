@@ -182,9 +182,9 @@ const workExperiences = {
       date: "Jan 2023 – May 2023",
       desc: "Performed multiple roles primarily as a UI developer and a Scrum Master for a 6 member team.",
       descBullets: [
-        "Led an Agile team in delivering an full stack education portal.",
-        "Spearheaded Agile ceremonies including sprint planning, daily standups, story planning, release planning and so on.",
-        "Collaborated with developers resulting in fostering a culture of code quality.",
+        "Led an Agile team in delivering an Angular‑based MySQL education portal on time and within budget, resulting in a 20% increase in user engagement.",
+        "Spearheaded over 50 Agile ceremonies,such as sprint planning, daily standups, retrospectives,story planning,and release planning, achieving a 30% reduction in delivery timelines.",
+        "Collaborated closely with developers to implement TDD practices, resulting in a 30% reduction in post‑release defects and fostering a culture of code quality and early issue detection.",
     ]
     },
     {
