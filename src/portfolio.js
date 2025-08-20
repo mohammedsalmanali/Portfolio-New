@@ -194,9 +194,9 @@ const workExperiences = {
       date: "Dec 2021 – Feb 2023",
       desc: "Started the IT journey as a trainee working on web development.",
       descBullets: [
-        "Actively participated in daily stand‑up meetings, contributing to sprint planning and continuous integration.",
-        "Delivered a feature‑rich web application React and Node.js.",
-        "Configured and optimized AWS services, resulting in a increase in application scalability.",
+        "Successfully implemented 10+ front-end solutions using HTML, CSS, Javascript, and Angular, resulting in a 15% increase in website traffic and a 20% increase in customer engagement.",
+        "Modularized Angular components, resulting in an improvement in the quality of code and an increase in unit test coverage to 60%-70% using Karma and Jasmine testing frameworks, reducing the error rate by 25%.",
+        "Developed and committed high-quality code to GIT, creating 100+ commits within 14 weeks of joining the organization, resulting in a 30% improvement in software development productivity.",
     ]
     }
   ]
