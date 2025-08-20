@@ -164,15 +164,15 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
-      role: "Assistant Administrator",
+      role: "Security Administrator",
       company: "DP World",
       companylogo: require("./assets/images/dpworld.png"),
       date: "Jan 2024 – Present",
-      desc: "Working as a mentor for students starting with frontend development.",
+      desc: "Working as a Security Administrator thriving in a fast-paced environment, supporting a workforce of over 1,000 employees across 11 locations. ",
       descBullets: [
-        "Supported individuals through clearing doubts and catering skill acquisition.",
-        "Committed to supporting potential developers and addressing learning gaps.",
-        "Fostered a dynamic environment with knowledge-sharing activities."
+        "Designed and optimized duty schedules for 1,000+ employees, ensuring balanced manpower deployment across multiple shifts and locations.",
+        "Monitored and managed daily attendance, leave requests, and year-round annual leave planning, maintaining 100% compliance with HR and labor policies.",
+        "Processed and reconciled billing and financial records with zero discrepancies, supporting accurate monthly payroll for 1,000+ staff."
       ]
     },
     {
