@@ -196,7 +196,7 @@ const workExperiences = {
       descBullets: [
         "Successfully implemented 10+ front-end solutions using HTML, CSS, Javascript, and Angular, resulting in a 15% increase in website traffic and a 20% increase in customer engagement.",
         "Modularized Angular components, resulting in an improvement in the quality of code and an increase in unit test coverage to 60%-70% using Karma and Jasmine testing frameworks, reducing the error rate by 25%.",
-        "Developed and committed high-quality code to GIT, creating 100+ commits within 14 weeks of joining the organization, resulting in a 30% improvement in software development productivity.",
+        "Developed and committed high-quality code to GIT, creating 1Developed and committed high-quality code to Git, producing 100+ meaningful commits over 14 weeks, accelerating team development efficiency by 30%.",
     ]
     }
   ]
